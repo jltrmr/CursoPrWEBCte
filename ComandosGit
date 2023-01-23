@@ -1,0 +1,8 @@
+git add nombre del archivo          // Pasar el archivo a STAGING (que esta en memori)
+git reset nombre del archivo
+git commit -m "Mensaje"             // Se mandan todo los archivos que estan en STANGING al REPOSITORY
+
+git push origin nombre de la rama (main)
+git commit --amend                  //Suma los pequeños cambios al ultimo commit realizado
+
+git log                             // Muestra el historial de commit's
